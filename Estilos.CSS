@@ -1,0 +1,35 @@
+@font-face {
+    font-family: PixeloidMono;
+    src: url(pixeloidMono.ttf);
+}
+h1{
+    
+    font-family: PixeloidMono;
+    color: white;
+    text-align: center;   
+}
+body{
+    background-image: url("index_1_foto.jpg");
+    background-repeat:no-repeat;
+}
+
+p{
+    font-family: Pixeloidmono;
+    color: white;
+    font-size: large;
+}
+a{
+    font-family: Pixeloidmono;
+    color: rgb(190, 27, 190);
+    font-size: large;  
+}
+a:hover {
+    color: purple;
+    font-size: 140%;
+}
+
+h2{
+    font-family: Pixeloidmono;
+    color: white;
+    font-size: large;
+}
