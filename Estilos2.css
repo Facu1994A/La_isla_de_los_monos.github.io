@@ -11,6 +11,8 @@ h1{
 body{
     background-image: url("index_2_foto.jpg");
     background-repeat:no-repeat;
+    max-width: 100%;
+    max-height: auto;
 }
 
 p{
